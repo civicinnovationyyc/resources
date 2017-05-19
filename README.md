@@ -1,6 +1,6 @@
 # Resources Resources Resources!
 
-## A (not all that) curated list of things demo'd or we talked about at the 60 Minute Hack #civicinnovationyyc
+## A (sort of) curated list of things demo'd or we talked about at the 60 Minute Hack #civicinnovationyyc
 
 ### 18 May 2017
 
@@ -12,6 +12,6 @@
 
 ## Other things too good not to share
 
--[RAWGraphs](http://rawgraphs.io) - The missing link between spreadsheets and data visualization.
+- [RAWGraphs](http://rawgraphs.io) - The missing link between spreadsheets and data visualization.
 
 Anything we missed? Anything to add? Pull requests are welcome!
