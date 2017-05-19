@@ -1,6 +1,6 @@
 # Resources Resources Resources!
 
-> A (not all that) created list of things demo'd or we talked about at the 60 Minute Hack #civicinnovationyyc
+> A (not all that) curated list of things demo'd or we talked about at the 60 Minute Hack #civicinnovationyyc
 
 ## 18 May 2017
 
