@@ -6,6 +6,7 @@
 
 - [Chatterbot](https://github.com/gunthercox/ChatterBot) - Chatbots in python
 - [Knime White Papers](https://www.knime.org/white-papers) - We looked at the social media section in particular
+- [radar_plot.py](https://matplotlib.org/examples/api/radar_chart.html) - Spider charts with mathplotlib
 - [Jupyter](http://jupyter.org/) - Create and share documents with live code
 - [coells/100 days](https://github.com/coells/100days) - Feel the algorithms
 - [the boring company](https://www.boringcompany.com/) - Tunnels are getting musky
