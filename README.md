@@ -10,6 +10,7 @@
 - [Jupyter](http://jupyter.org/) - Create and share documents with live code
 - [coells/100 days](https://github.com/coells/100days) - Feel the algorithms
 - [the boring company](https://www.boringcompany.com/) - Tunnels are getting musky
+- [Ethereum](https://www.ethereum.org/) - Build a democracy on the blockchain
 
 ## Other things too good not to share
 
