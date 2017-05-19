@@ -1,6 +1,6 @@
 # Resources Resources Resources!
 
-## A (sort of) curated list of things demo'd or we talked about at the 60 Minute Hack #civicinnovationyyc
+## A (sort of) curated list of things demoed or talked about at the 60 Minute Hack #civicinnovationyyc
 
 ### 18 May 2017
 
