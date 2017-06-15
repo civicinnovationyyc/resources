@@ -4,7 +4,7 @@
 
 ### 15 June 2017
 
-- [Discourse.org](http://www.discourse.org/) - next gen Q&A from some Stack Overflow alums
+- [Discourse.org](http://www.discourse.org/) - next gen Q&A platform from some Stack Overflow alums
 - [Question2Answer](http://www.question2answer.org/) - Open source Q&A platform, similar to Stack Overflow / Quora. PHP/MySQL. Has anyone come across anything better? What happened to the original CityTalk site?
 - [Viode](http://viode.github.io/) - Another open source Q&A community, this one built with Ruby on Rails
 - [Attack the Front](http://attackthefront.com) - Quick-fire thoughts to inform and inspire creative professionals daily. Potential interface for a 'lessons learned database'?
