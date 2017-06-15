@@ -2,6 +2,11 @@
 
 ## A (sort of) curated list of things demoed or talked about at the 60 Minute Hack #civicinnovationyyc
 
+### 15 June 2017
+
+- [Attack the Front](http://attackthefront.com) - Quick-fire thoughts to inform and inspire creative professionals daily. Potential interface for a 'lessons learned database'?
+- [Kaggle Kernels](https://www.kaggle.com/kernels) - The best place to explore data science results and share your own work
+- [OpenDataCache](http://www.opendatacache.com/) - Free cache for Socrata open data portals, and a long list of Portals that are currently cached. Source code available.
 
 ### 1 June 2017
 
