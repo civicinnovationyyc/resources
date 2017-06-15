@@ -4,10 +4,12 @@
 
 ### 15 June 2017
 
+- [Discourse.org](http://www.discourse.org/) - next gen Q&A from some Stack Overflow alums
 - [Question2Answer](http://www.question2answer.org/) - Open source Q&A platform, similar to Stack Overflow / Quora. PHP/MySQL. Has anyone come across anything better? What happened to the original CityTalk site?
 - [Viode](http://viode.github.io/) - Another open source Q&A community, this one built with Ruby on Rails
 - [Attack the Front](http://attackthefront.com) - Quick-fire thoughts to inform and inspire creative professionals daily. Potential interface for a 'lessons learned database'?
 - [Kaggle Kernels](https://www.kaggle.com/kernels) - The best place to explore data science results and share your own work
+- [Practical Deep Learning For Coders](http://course.fast.ai/) - a unique path to deep learning expertise
 - [OpenDataCache](http://www.opendatacache.com/) - Free cache for Socrata open data portals, and a long list of Portals that are currently cached. Source code available.
 
 ### 1 June 2017
