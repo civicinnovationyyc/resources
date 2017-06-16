@@ -29,6 +29,9 @@
 - [the boring company](https://www.boringcompany.com/) - Tunnels are getting musky
 - [Ethereum](https://www.ethereum.org/) - Build a democracy on the blockchain
 
+## Civic Innovation YYC sites:
+- [Civic Innovation YYC](https://innovation.calgary.ca) - Your ideas can make our city even better
+- [myCityInnovation](https://mycityinnovation.calgary.ca) - site for City of Calgary employees
 
 ## Other things too good not to share
 
