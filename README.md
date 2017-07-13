@@ -2,6 +2,12 @@
 
 ## A (sort of) curated list of things demoed or talked about at the 60 Minute Hack #civicinnovationyyc
 
+### 13 July 2017 - Open Source Roundup
+
+- [A-Frame](https://a-frame.io/) - web framework for building virtual reality experiences
+- [Glitch](https://glitch.com/) - build open source apps with working examples to remix, a code editor to modify them, instant hosting and deployment. connects to github too.
+- [Blender3D](https://www.blender.org/) - Open source 3D creation suite. Modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and game creation.
+
 ### 15 June 2017
 
 - [BCDevExchange](https://bcdevexchange.org/) - accellerates government agencies in British Columbia to access software solutions and developers to access opportunties
