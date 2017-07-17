@@ -4,6 +4,12 @@
 
 ### 13 July 2017 - Open Source Roundup
 
+- [d3.js](https://d3js.org) - The D3 javascript library helps you bring data to life using HTML, SVG, and CSS
+- [RAWGraphs](http://rawgraphs.io) - The missing link between spreadsheets and data visualization - it lets you create selected visualizations the d3 library quickly and easily.
+- [R: The R Project for Statistical Computing](https://www.r-project.org)
+- [TensorFlow](https://www.tensorflow.org) - Open Source software library for machine intelligence
+- [TensorFlow Playground](https://playground.tensorflow.org) - Tinker with a neural network right in the browser. Kind of like RAWGraphs is to D3.js, but not really.
+
 - [A-Frame](https://a-frame.io/) - web framework for building virtual reality experiences
 - [Glitch](https://glitch.com/) - build open source apps with working examples to remix, a code editor to modify them, instant hosting and deployment. connects to github too.
 - [Blender3D](https://www.blender.org/) - Open source 3D creation suite. Modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and game creation.
@@ -41,7 +47,5 @@
 - [myCityInnovation](https://mycityinnovation.calgary.ca) - site for City of Calgary employees
 
 ## Other things too good not to share
-
-- [RAWGraphs](http://rawgraphs.io) - The missing link between spreadsheets and data visualization.
 
 Anything we missed? Anything to add? Pull requests are welcome!
