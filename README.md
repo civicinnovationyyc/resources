@@ -6,15 +6,13 @@
 
 - [d3.js](https://d3js.org) - The D3 javascript library helps you bring data to life using HTML, SVG, and CSS
 - [RAWGraphs](http://rawgraphs.io) - The missing link between spreadsheets and data visualization - it lets you create selected visualizations the d3 library quickly and easily.
-- [R: The R Project for Statistical Computing](https://www.r-project.org)
-- [ggplot](https://ggplot.yhathq.com) - Plotting system for Python based on R's ggplot2 and the Grammar of Graphics
+- [R: The R Project for Statistical Computing](https://www.r-project.org) - software environment for statistical computing and graphics
+- [ggplot](http://ggplot.yhathq.com) - Plotting system for Python based on R's ggplot2 and the Grammar of Graphics
 - [TED Talks by Hans Rosling](https://www.ted.com/speakers/hans_rosling) - In Hans Rosling’s hands, data sings.
 - [InnerSource Commons](https://paypal.github.io/InnerSourceCommons) - InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally
-
 - [TensorFlow](https://www.tensorflow.org) - Open Source software library for machine intelligence
 - [TensorFlow Playground](https://playground.tensorflow.org) - Tinker with a neural network right in the browser. Kind of like RAWGraphs is to D3.js, but not really.
 - [tmux](https://github.com/tmux/tmux/wiki) - A terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal
-
 - [A-Frame](https://a-frame.io/) - web framework for building virtual reality experiences
 - [Glitch](https://glitch.com/) - build open source apps with working examples to remix, a code editor to modify them, instant hosting and deployment for node.js and the usual html/css. connects to github too.
 - [Blender3D](https://www.blender.org/) - Open source 3D creation suite. Modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and game creation.
