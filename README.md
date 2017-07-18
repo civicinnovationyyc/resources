@@ -13,7 +13,7 @@
 - [TensorFlow](https://www.tensorflow.org) - Open Source software library for machine intelligence
 - [TensorFlow Playground](http://playground.tensorflow.org) - Tinker with a neural network right in the browser. Kind of like RAWGraphs is to D3.js, but not really.
 - [tmux](https://github.com/tmux/tmux/wiki) - A terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal
-- [A-Frame](https://a-frame.io/) - web framework for building virtual reality experiences
+- [A-Frame](https://aframe.io/) - web framework for building virtual reality experiences
 - [Glitch](https://glitch.com/) - build open source apps with working examples to remix, a code editor to modify them, instant hosting and deployment for node.js and the usual html/css. connects to github too.
 - [Blender3D](https://www.blender.org/) - Open source 3D creation suite. Modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and game creation.
 
