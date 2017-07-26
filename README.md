@@ -2,6 +2,11 @@
 
 ## A (sort of) curated list of things demoed or talked about at the 60 Minute Hack #civicinnovationyyc
 
+### 27 July 2017 - Augemented Reality
+
+- [ar.js](https://github.com/jeromeetienne/AR.js/tree/master/aframe) - Augmented reality for A-Frame
+- [Here's a peek at the iPhone's Next Big Trick](https://www.fastcodesign.com/90132910/heres-a-peek-at-the-iphones-big-next-trick) - Article with embedded video demos of upcoming iOS 11 functionality inc. links to Google Tango and Microsoft Hololens
+
 ### 13 July 2017 - Open Source Roundup
 
 - [d3.js](https://d3js.org) - The D3 javascript library helps you bring data to life using HTML, SVG, and CSS
